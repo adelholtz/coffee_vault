@@ -8,39 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ee30b8dae8f0e94",
+            "id": "1ef60f755c4b81bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/T-Espresso.md",
+                "file": "Coffee/Coffee Circle - Yirgacheffe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ef60f755c4b81bd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": -100,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "aaea24d572fa2082",
+            "id": "19f27bdc3f1ab3d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espresso/Rehorik - 190°.md",
+                "file": "Espresso/Espresso Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a2e47e58cac99fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee/Coffee Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea8c61bdfa386a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee/Coffee Circle - Karibu.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Espresso/Espresso Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Espresso/Espresso Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas"
+                "file": "Espresso/Espresso Index.md"
               }
             }
           }
@@ -174,16 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ef60f755c4b81bd",
+  "active": "19f27bdc3f1ab3d9",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "Espresso/Rehorik - 190°.md",
+    "Coffee/Coffee Index.md",
+    "Coffee/ETK - Finca el Limoncillo.md",
+    "Coffee/Coffee Circle - Yirgacheffe.md",
+    "Coffee/ETK - Geisha (honey).md",
+    "Coffee/Coffee Circle - Gishubi.md",
+    "Coffee/Coffee Circle - Karibu.md",
+    "Coffee/Coffee Circle - Sierra Nevada.md",
     "Dashboard.canvas",
+    "Espresso/Rehorik - 190°.md",
     "Espresso/Espresso Index.md",
-    "templates/T-Espresso.md",
+    "Espresso/Rehorik - Kenya Gourmet.md",
+    "README.md",
     "Espresso/Coffee Circle - Guji.md",
-    "Untitled.md",
+    "Coffee/ETK - Guatemala Finca El Gigante Yellow Bourbon washed.md",
+    "Coffee/Rehorik - Gakundu.md",
+    "templates/T-Coffee.md",
+    "templates/T-Espresso.md",
+    "Coffee",
+    "LICENSE",
     "Espresso/img/GujiB6kYgoonC756k_600x600@2x.jpg",
     "Espresso/img",
     "templates",

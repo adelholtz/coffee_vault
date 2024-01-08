@@ -14,6 +14,8 @@ date_added: 17.08.23
 
 ## Zubereitung
 
+Commandate c40 MK2 redclixx: 24-25 Klicks
+
 1:2,5 -> 27 Sekunden
 
 ![[GujiB6kYgoonC756k_600x600@2x.jpg]]

@@ -1,3 +1,6 @@
 [
-  "dataview"
+  "dataview",
+  "obsidian-mkdocs-publisher",
+  "cmdr",
+  "obsidian-git"
 ]
