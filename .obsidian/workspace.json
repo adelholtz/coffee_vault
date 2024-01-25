@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ef60f755c4b81bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coffee/Coffee Circle - Yirgacheffe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19f27bdc3f1ab3d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espresso/Espresso Index.md",
+                "file": "Coffee/Coffee Circle - Jejeba.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee/Coffee Index.md",
+                "file": "Coffee/Coffee Circle - Jejeba.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea8c61bdfa386a32",
+            "id": "a74f7cb229107e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee/Coffee Circle - Karibu.md",
+                "file": "Coffee/Coffee Circle - Buna Dimaa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Espresso/Espresso Index.md",
+                "file": "Coffee/Coffee Circle - Buna Dimaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Espresso/Espresso Index.md",
+                "file": "Coffee/Coffee Circle - Buna Dimaa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espresso/Espresso Index.md"
+                "file": "Coffee/Coffee Circle - Buna Dimaa.md"
               }
             }
           }
@@ -180,28 +168,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "19f27bdc3f1ab3d9",
+  "active": "a74f7cb229107e50",
   "lastOpenFiles": [
-    "Coffee/Coffee Index.md",
-    "Coffee/ETK - Finca el Limoncillo.md",
-    "Coffee/Coffee Circle - Yirgacheffe.md",
-    "Coffee/ETK - Geisha (honey).md",
-    "Coffee/Coffee Circle - Gishubi.md",
-    "Coffee/Coffee Circle - Karibu.md",
     "Coffee/Coffee Circle - Sierra Nevada.md",
-    "Dashboard.canvas",
-    "Espresso/Rehorik - 190°.md",
+    "Coffee/Coffee Circle - Buna Dimaa.md",
+    "Coffee/Coffee Circle - Jejeba.md",
     "Espresso/Espresso Index.md",
+    "Espresso/Coffee Circle - Chire.md",
+    "Coffee/Coffee Circle - Gishubi.md",
+    "Coffee/Coffee Index.md",
+    "Coffee/Coffee Circle - Yirgacheffe.md",
+    "Coffee/ETK - Finca el Limoncillo.md",
+    "Dashboard.canvas",
+    "templates/T-Coffee.md",
+    "templates/T-Espresso.md",
+    "Coffee/ETK - Geisha (honey).md",
+    "Coffee/Coffee Circle - Karibu.md",
+    "Espresso/Rehorik - 190°.md",
     "Espresso/Rehorik - Kenya Gourmet.md",
     "README.md",
     "Espresso/Coffee Circle - Guji.md",
     "Coffee/ETK - Guatemala Finca El Gigante Yellow Bourbon washed.md",
     "Coffee/Rehorik - Gakundu.md",
-    "templates/T-Coffee.md",
-    "templates/T-Espresso.md",
     "Coffee",
     "LICENSE",
     "Espresso/img/GujiB6kYgoonC756k_600x600@2x.jpg",
