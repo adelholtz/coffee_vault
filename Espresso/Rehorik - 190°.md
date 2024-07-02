@@ -14,4 +14,4 @@ date_added: 17.08.23
 
 ## Zubereitung
 
-1:1,8 / 1:2 -> 20-22 Sekunden
+1:1,8 / 1:2 -> 20-22 Sekunden (28-30 clicks kann variieren je nach Bohnen)
