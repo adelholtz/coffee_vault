@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee/Coffee Circle - Jejeba.md",
+                "file": "Coffee/ETK - Finca el Limoncillo.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a74f7cb229107e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espresso/Rehorik - 190°.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Espresso/Rehorik - 190°.md",
+                "file": "Coffee/Coffee Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Espresso/Rehorik - 190°.md",
+                "file": "Coffee/Coffee Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espresso/Rehorik - 190°.md"
+                "file": "Coffee/Coffee Index.md"
               }
             }
           }
@@ -172,17 +160,20 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "a74f7cb229107e50",
+  "active": "6a2e47e58cac99fc",
   "lastOpenFiles": [
-    "Coffee/Coffee Circle - Gishubi.md",
+    "Coffee/ETK - Kenia Bloom Selection.md",
+    "Coffee/ETK - Finca el Limoncillo.md",
+    "Coffee/Coffee Circle - Jejeba.md",
     "Coffee/Coffee Index.md",
+    "Espresso/Rehorik - 190°.md",
+    "Untitled.md",
+    "Coffee/Coffee Circle - Gishubi.md",
     "Espresso/Espresso Index.md",
     "Espresso/Rehorik - Ararara.md",
     "Coffee/Rehorik - La Cascada.md",
-    "Coffee/Coffee Circle - Jejeba.md",
     "Coffee/ETK - Guatemala Finca El Gigante Yellow Bourbon washed.md",
     "Coffee/ETK - Geisha (honey).md",
-    "Coffee/ETK - Finca el Limoncillo.md",
     "Coffee/Coffee Circle - Buna Dimaa.md",
     "Coffee/Coffee Circle - Sierra Nevada.md",
     "Espresso/Coffee Circle - Chire.md",
@@ -191,7 +182,6 @@
     "templates/T-Coffee.md",
     "templates/T-Espresso.md",
     "Coffee/Coffee Circle - Karibu.md",
-    "Espresso/Rehorik - 190°.md",
     "Espresso/Rehorik - Kenya Gourmet.md",
     "README.md",
     "Espresso/Coffee Circle - Guji.md",
